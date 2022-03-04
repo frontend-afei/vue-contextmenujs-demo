@@ -1,6 +1,6 @@
 # vue-contextmenujs-demo
 
-使用 vue-contextmenujs 快速实现右键菜单弹窗
+使用 vue-contextmenujs + element-ui 快速实现右键菜单
 
 掘金地址：https://juejin.cn/post/7022836132224172069
 
